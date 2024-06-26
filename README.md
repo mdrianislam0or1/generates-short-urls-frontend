@@ -51,8 +51,8 @@ Develop a service that generates short URLs for longer, original URLs.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-frontend-repo.git
-   cd your-frontend-repo
+   git clone https://github.com/mdrianislam0or1/generates-short-urls-frontend
+   cd generates-short-urls-frontend
 
     Install dependencies:
 
